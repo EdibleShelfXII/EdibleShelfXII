@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdibleShelfXII
 - 👀 I’m interested in raspberry pi, arduino, embedded stuff
-- 🌱 I’m currently learning QTCreator GUI for RPi
+- 🌱 I’m currently learning embedded GUI for RPi and server stuff
 - 💞️ I’m looking to collaborate on fun stuff
 - 📫 How to reach me message on discord lui5468#7245
 
