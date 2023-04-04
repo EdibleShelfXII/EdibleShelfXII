@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EdibleShelfXII
-- 👀 I’m interested in raspberry pi, arduino, embedded netwroking
+- 👀 I’m interested in Embedded Electronics
 - 🌱 I’m currently learning MQTT
 - 💞️ I’m looking to collaborate on fun stuff
 - 📫 How to reach me message on discord lui5468#7245
